@@ -8,7 +8,7 @@ git clone https://github.com/NomiKing33/Badshah-12.git
 
 ls
 
-cd Badshah-hn
+cd Badshah-12
 
 ls
 
