@@ -12,7 +12,7 @@ cd Badshah-12
 
 ls
 
-python Badshah-hn.py
+python Badshah-12.py
 
 
 Thank's For Using My Tool ❤
